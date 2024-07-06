@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProgrammingTechie27
-- 👀 I’m interested in languages learning, Linguistics, chess, videogames, TTRPGS, programming, and coding.
+- 👀 I’m interested in language learning, Linguistics, chess, videogames, TTRPGS, programming, and coding.
 - 🌱 I’m currently learning NLP Fundamentals, NLTK, Spacy, LLMs, Machine Learning, and AI.
 - 💞️ I’m looking to collaborate on Natural Language Processing projects that will allow me to hone my skills and learn from the best in the industry!
 - 📫 How to reach me you can reach me at my personal email: programmingnikki27@gmail.com or on my LinkedIn: Jarian Del Valle
